@@ -1,3 +1,9 @@
+# Scripts
+
+https://stackoverflow.com/questions/48910876/error-eacces-permission-denied-access-usr-local-lib-node-modules
+npm install service-worker-register
+hard reload cmd + shift + reload button
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
